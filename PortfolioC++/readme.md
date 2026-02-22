@@ -1,4 +1,4 @@
-# 🚀 Ejercicios de C++
+# 🚀 Proyectos de C++
 
 ¡Bienvenido! En este repositorio encontrarás mi colección personal de ejercicios y desafíos resueltos en **C++**. 
 
