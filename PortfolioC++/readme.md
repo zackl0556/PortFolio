@@ -4,7 +4,7 @@
 
 El objetivo de este espacio es documentar mi progreso, desde los conceptos fundamentales hasta estructuras de datos más complejas y algoritmos avanzados.
 
-## 🚀 Cómo ejecutar los ejercicios
+## 🚀 Cómo ejecutar los programas
 
 Para compilar cualquiera de los archivos, asegúrate de tener un compilador de C++ (como `g++`) instalado.
 
